@@ -1,0 +1,71 @@
+.col-actions {
+  width: 60px;
+}
+
+.imageList{
+  width: 100px;
+}
+
+
+.button-nav{
+  margin-right:10px;
+
+}
+
+.test{
+ 
+  
+  overflow: auto;
+  max-height:32vh;
+  min-height:32vh;
+ 
+}
+
+
+
+.connexion{
+  border:1px solid black;
+  margin-top: 10%;
+  border-radius: 10px;
+  padding: 10px 10px;
+  text-align: center;
+  box-shadow: 1px 1px 1px 1px;
+}
+
+.layout-connexion{
+  background-color:#007bff;
+  text-align: center;
+  text-transform: uppercase;
+  color:white;
+  padding:10px 0 10px 0;
+  margin-bottom: 10px;
+}
+
+html, body{
+  height: 100vh;
+}
+
+.layout-suppression{
+  position: absolute;
+  background-color:red;
+  text-align: center;
+  text-transform: uppercase;
+  color:white;
+  padding:10px 0 10px 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.target{
+  background-color:#007bff ;
+}
+
+td{
+  border:1px solid black;
+  padding:10px 10px;
+}
+
+table{
+  margin:auto;
+  text-align: center;
+}
